@@ -1,8 +1,10 @@
 # Spigot Mappings
-*last updated by bot*: 5/5/21, 12:04 AM  
+*last updated by bot*: 5/5/21, 12:12 AM  
 DO NOT PR,Contact me via issue for add/fixing files.  
+Check for mapping updates every hour.  
 
 # Supported Minecraft Versions
+```
 1.16.5  
 1.16.4  
 1.16.3  
@@ -45,3 +47,4 @@ DO NOT PR,Contact me via issue for add/fixing files.
 1.8.1  
 1.8  
 
+```
