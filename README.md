@@ -1,7 +1,7 @@
 # Spigot Mappings
-*last updated by bot*: 5/8/21, 6:00 PM  
+*last updated by bot*: 5/9/21, 12:00 AM  
 DO NOT PR,Contact me via issue for add/fixing files.  
-Check for mapping updates every hour.  
+Check for mapping updates every day.  
 
 # Usage
 Github Pages: `https://icebear67.github.io/SpigotMappings/$mcver/bukkit-$mcver-(cl(class) or members).csrg`  
