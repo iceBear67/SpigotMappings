@@ -3,9 +3,11 @@
 DO NOT PR,Contact me via issue for add/fixing files.  
 Check for mapping updates every day.  
 
+**Mention**: Spigot uses Mappings from Mojang since `1.17`, so this project was archived.
+
 # Usage
 Github Pages: `https://icebear67.github.io/SpigotMappings/$mcver/bukkit-$mcver-(cl(class) or members).csrg`  
-SFClub Mirror: `https://api.sfclub.cc/nms/mappings/$mcver/bukkit-$mcver-(cl or members).csrg`
+~~SFClub Mirror: `https://api.sfclub.cc/nms/mappings/$mcver/bukkit-$mcver-(cl or members).csrg`~~
 
 # Supported Minecraft Versions
 ```
