@@ -1,16 +1,19 @@
 # Spigot Mappings
-*last updated by bot*: 6/4/21, 12:00 AM  
+*last updated by bot*: 1/8/22, 5:48 PM  
 DO NOT PR,Contact me via issue for add/fixing files.  
-Check for mapping updates every day.  
+Bot checks for mapping updates every day.  
 
-~~**Mention**: Spigot uses Mappings from Mojang since `1.17`, so this project was archived.~~ My fault.
+~**Mention**: Spigot uses Mappings from Mojang since `1.17`, so this project was archived.~~ my fault.
 
 # Usage
 Github Pages: `https://icebear67.github.io/SpigotMappings/$mcver/bukkit-$mcver-(cl(class) or members).csrg`  
-~~SFClub Mirror: `https://api.sfclub.cc/nms/mappings/$mcver/bukkit-$mcver-(cl or members).csrg`~~
 
 # Supported Minecraft Versions
 ```
+1.18.1  
+1.18  
+1.17.1  
+1.17  
 1.16.5  
 1.16.4  
 1.16.3  
@@ -54,3 +57,4 @@ Github Pages: `https://icebear67.github.io/SpigotMappings/$mcver/bukkit-$mcver-(
 1.8  
 
 ```
+
