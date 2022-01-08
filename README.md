@@ -1,9 +1,11 @@
 # Spigot Mappings
-*last updated by bot*: 1/8/22, 5:48 PM  
+*last updated by bot*: 1/8/22, 6:06 PM  
 DO NOT PR,Contact me via issue for add/fixing files.  
 Bot checks for mapping updates every day.  
 
-~**Mention**: Spigot uses Mappings from Mojang since `1.17`, so this project was archived.~~ my fault.
+~~**Mention**: Spigot uses Mappings from Mojang since `1.17`, so this project was archived.~~ my fault.
+
+Mention: Spigot didn't provide member mappings since 1.18. Refer to https://www.spigotmc.org/threads/9-years-of-spigotmc-spigot-bungeecord-1-18-1-18-1-release.534760/
 
 # Usage
 Github Pages: `https://icebear67.github.io/SpigotMappings/$mcver/bukkit-$mcver-(cl(class) or members).csrg`  
