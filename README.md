@@ -1,5 +1,5 @@
 # Spigot Mappings
-*last updated by bot*: 1/8/22, 6:06 PM  
+*last updated by bot*: 1/8/22, 6:10 PM  
 DO NOT PR,Contact me via issue for add/fixing files.  
 Bot checks for mapping updates every day.  
 
